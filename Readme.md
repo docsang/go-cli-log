@@ -42,6 +42,12 @@ func main() {
 }
 ```
 
+## Run demo
+	
+	cd examples
+	go get github.com/visionmedia/go-cli-log   
+	go run simple.go
+
 # License
 
  MIT
